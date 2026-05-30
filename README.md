@@ -1,8 +1,8 @@
 # Hi there, I'm Ese-Abasi Ekanem! 👋
 
-## 🔐 Senior Cybersecurity Engineer & Lead ISO 27001 & 42001 Lead Auditor
+## 🔐 Senior Cybersecurity Engineer, Researcher & Lead ISO 27001 & 42001 Lead Auditor
 
-I am a **Senior Cybersecurity Engineer and Lead Auditor** specializing in offensive security, defensive engineering, and organizational security strategy. My focus lies in securing API-first, cloud-native, Enterprise AI, and enterprise architectures while aligning technical execution with robust compliance frameworks.
+I am a **Senior Cybersecurity Engineer, Researcher and Lead Auditor** specializing in offensive security, defensive engineering, and organizational security strategy. My focus lies in securing API-first, cloud-native, Enterprise AI, and enterprise architectures while aligning technical execution with robust compliance frameworks.
 
 * 🔍 **Application Security:** Web, API, LLM, Cloud and Mobile Security Testing (OWASP Top 10, Business Logic Flaws, Cross-Tenant Vulnerabilities)
 * ⚙️ **DevSecOps:** Hardening secure CI/CD pipelines, automated scanning (SAST/DAST/SCA), and repository security
