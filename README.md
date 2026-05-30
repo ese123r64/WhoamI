@@ -16,7 +16,7 @@ I am a **Senior Cybersecurity Engineer, Researcher and Lead Auditor** specializi
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Operating Systems** | Linux (Kali, Ubuntu), Windows Server, macOS |
-| **Programming & Scripting** | PowerShell, Bash, Python, JavaScript |
+| **Programming & Scripting** | PowerShell, Bash, Python, JavaScript, Java,  |
 | **Security & Penetration Testing**| Burp Suite, OWASP ZAP, MobSF, Postman, API Exploitation Tools, JADX, GHIDRA, Defender for Cloud, Cloud Exploitation Tools, LLM Exploitation Tools |
 | **DevSecOps & Automation** | GitHub Actions, SonarQube, Snyk, Dependabot, Trivy, |
 | **Cloud & Infrastructure** | Microsoft Azure, Google Cloud, AWS, Azure App Services, Microsoft Sentinel, Google Secops Docker, Kubernetes |
