@@ -66,7 +66,7 @@ I am a **Senior Cybersecurity Engineer, Researcher and Lead Auditor** specializi
 * ✅ **ISO/IEC 42001 Lead Auditor – Artificial Intelligence Management Systems
 * ✅ ** Microsoft Applied Skills: Securing Azure Workloads with Defender for Cloud
 * ✅ ** Certified Cybersecurity Educator Professional
-* ✅ ** MultiCloud Red Team Analyst
+* ✅ ** MultiCloud Red Team Analyst (MCRTA)
 * ✅ ** Proofpoint AI Data Security Specialist
 * ✅**  Certified Red Teamer Expert (CRTE)
 
